@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "./static/js/main.734289a5.js",
+    "static/media/mars.jpeg": "./static/media/mars.c1e2b37e3a7ab07712e3.jpeg",
+    "static/media/saturnus.png": "./static/media/saturnus.e3788a85f7b65f7897f0.png",
+    "static/media/Merkurius.jpeg": "./static/media/Merkurius.6057a969bc969b358c3f.jpeg",
+    "static/media/uranus.png": "./static/media/uranus.fcd6fe9a1b17df71ef79.png",
+    "static/media/neptunus.jpeg": "./static/media/neptunus.f42e2fb4c83d170f254e.jpeg",
+    "static/media/pluto.jpeg": "./static/media/pluto.0a5f8ee0ba87ddb66b3b.jpeg",
+    "static/media/jupiter.jpeg": "./static/media/jupiter.2ac871ac6fe5ad73c520.jpeg",
+    "static/media/Maa.jpg": "./static/media/Maa.f2448fedd91b28494125.jpg",
+    "static/media/asteroidi.jpeg": "./static/media/asteroidi.f9ffcfb8643f448ae6b1.jpeg",
+    "static/media/venus.jpeg": "./static/media/venus.6ba762c5ac90f041b117.jpeg",
+    "index.html": "./index.html",
+    "main.734289a5.js.map": "./static/js/main.734289a5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.734289a5.js"
+  ]
+}
